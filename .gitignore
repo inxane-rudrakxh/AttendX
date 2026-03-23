@@ -1,0 +1,20 @@
+# Node.js
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/.env
+
+# Database and uploaded files
+backend/attendx.db
+backend/app/known_faces/
+backend/app/intruder_images/
+backend/temp_error.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
